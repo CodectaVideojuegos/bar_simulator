@@ -1,0 +1,9 @@
+para cada actualizacion del repositiorio se debe hacer con el siguiente formato:
+mensaje de los cambios: msg
+de que se trata los cambios: "arreglar", "agregar", "debug" , "mejorar", "eliminar"
+
+ejemplo:
+
+msg: se corrigio el codigo del movimiento del jugador
+
+debug: el problema estaba en el codigo de velocidad del jugador que multiplicaba por 0 el movimiento en cualquier direccion
